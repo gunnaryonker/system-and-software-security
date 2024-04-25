@@ -1,0 +1,2 @@
+COMPSCI 750
+In this course one learns about how to build secure computer systems in detail. Topics include access control and security policy models, information flow, operating system security, malware and reverse engineering, and common software vulnerabilities and related countermeasures. Through labs and projects, one will learn to apply security principles to solve real life problems in computer and related systems.
